@@ -1,12 +1,8 @@
-Skill Drill 3 - Solving Real Business Problems with Excel
+✨ Skill Drill 3: Excel Formula Mastery ✨
 
+Today, I worked on an exciting drill to practice solving real-world data problems using 15 powerful Excel formulas. This session helped me go beyond just learning syntax — I actually applied formulas to answer real business-style questions.
 
-
-Today I practiced solving real data problems in Excel with 15 different formulas. Instead of just learning the formulas, I used them to answer questions that felt like real business problems.
-
-
-
--- Formulas & Techniques I practiced:
+📊 Formulas & Techniques I practiced:
 
 SUMIFS
 
@@ -18,51 +14,56 @@ XLOOKUP
 
 MAXIFS
 
+INDEX + MATCH
+
 FILTER
 
 MAX
 
 LARGE
 
+💡 Key skills gained:
 
+Choosing the right formula for the problem
+
+Working with wildcards & patterns
+
+Using date ranges in criteria
+
+Handling multiple conditions
+
+Combining formulas to tackle complex problems
 
 📝 Practice Questions I solved:
 
-1. Total downloads for Sugar Rush
+Total downloads for Sugar Rush
 
-2 Total downloads for C apps
+Total downloads for C apps
 
-3. Uninstalls in December 2021
+Uninstalls in December 2021
 
-4. Downloads in Oct, Nov, Dec 2021
+Downloads in Oct, Nov, Dec 2021
 
-5. How many times we had more than 8000 downloads per app month?
+How many times we had more than 8000 downloads per app month?
 
-6. 5 star rating % for Sugar Rush
+5 star rating % for Sugar Rush
 
-7. Average uninstalls for Subway Wafers
+Average uninstalls for Subway Wafers
 
-8. Which month has the highest uninstall ratio?
+Which month has the highest uninstall ratio?
 
-9. Average monthly downloads
+Average monthly downloads
 
-10. Most downloads in any month/app? 2nd and 3rd places also?
+Most downloads in any month/app? 2nd and 3rd places also?
 
-11. Which month and app was that?
+Which month and app was that?
 
-12. In October 2021, which app has most 1-star ratings?
+In October 2021, which app has most 1-star ratings?
 
-13. Does it change by December 2021?
+Does it change by December 2021?
 
-14. What are the best download figures for each app?
+What are the best download figures for each app?
 
-15. What is the least downloaded app in each month?
+What is the least downloaded app in each month?
 
-
-
-I followed along with Chandoo.org to practice these Excel questions today.
-
-
-
-#Excel #SkillDrill #DataAnalysis #LearningJourney #Productivity
-
+📈 This practice made me more confident at applying Excel to real-world data analysis challenges. It’s exciting to see how much faster and smarter decisions can be made with the right formulas!
