@@ -67,3 +67,32 @@ What are the best download figures for each app?
 What is the least downloaded app in each month?
 
 📈 This practice made me more confident at applying Excel to real-world data analysis challenges. It’s exciting to see how much faster and smarter decisions can be made with the right formulas!
+
+
+Skill Drill – 4: Mastering Lookups in Excel 🔍
+
+Today’s focus was on taking my lookup skills a step further.
+
+ We all start with VLOOKUP, but to handle real-world data challenges, I explored how to go beyond it using INDEX + MATCH and some powerful tricks.
+
+🔑 Key takeaways from today’s drill:
+
+ 1️⃣ Pattern Matching – using wildcards (*) with VLOOKUP for flexible lookups.
+
+ 2️⃣ Looking up in Two Tables – with IFERROR(VLOOKUP(...), VLOOKUP(...)) to search across multiple ranges.
+
+ 3️⃣ Multi-column Results – fetching multiple outputs instead of just one column.
+
+ 4️⃣ Combine All Matches – using TEXTJOIN + IF to return all matching values.
+
+ 5️⃣ A Better Function – exploring INDEX + MATCH for more control and flexibility.
+
+💡 Learning: VLOOKUP is great for basics, but INDEX + MATCH (and later XLOOKUP) gives much more power and adaptability.
+
+I’ll continue practicing these small drills daily – because consistency builds confidence. 🚀
+
+
+
+ALL THANKS TO Chandoo.org
+
+#Excel #SkillDrill #LearningJourney #DataAnalytics
