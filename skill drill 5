@@ -1,0 +1,74 @@
+🚀 Skill Drill 5: Mastering Advanced XLOOKUP
+
+
+
+✅ Topics Practiced
+
+
+
+1.Basic XLOOKUP usage (syntax, table setup).
+
+2.Returning all columns (horizontal & vertical lookups).
+
+3.Wildcard lookups (values that begin with / contain).
+
+4.Comparison lookups (equal to / higher than).
+
+5.Multiple condition lookups.
+
+6.Lookup between two dates.
+
+7.Finding highest / lowest values.
+
+8.Advanced lookups (second matching value, multiple matches).
+
+9.Returning multiple columns at once.
+
+
+
+🎯 Key Learnings
+
+Flexibility over VLOOKUP/HLOOKUP → Unlike older functions, XLOOKUP can return values from any direction (left, right, up, down).
+
+Wildcard support → Helps in partial string matching, very useful when data isn’t clean.
+
+Conditional lookups → You can replicate complex queries inside Excel without needing SQL.
+
+Range-based lookups (between dates) → Great for analyzing time-based datasets.
+
+Multiple results → Ability to fetch all matching rows instead of just the first one.
+
+Performance in dashboards → Makes Excel models cleaner, easier to maintain, and interview-ready.
+
+
+
+💡 Why It’s Important for Interviews
+
+
+
+👉Demonstrates problem-solving with data → Recruiters want to see how you’d handle messy or real-world datasets.
+
+
+
+👉Shows advanced Excel knowledge → Many BI / analyst roles still test Excel before SQL/Power BI.
+
+
+
+👉Highlights adaptability → Knowing tricks like “lookup between dates” or “multiple conditions” shows you can go beyond basic lookups.
+
+
+
+👉Gives you an edge → Most candidates stop at VLOOKUP — using XLOOKUP proves you stay updated with modern tools.
+
+
+
+
+
+
+
+All thanks to Chandoo.org
+
+#Excel #XLOOKUP #DataAnalysis #SkillDrill5 #ExcelTips #InterviewPrep #BusinessIntelligence #Analytics #DataDriven #LearningJourney
+
+
+
